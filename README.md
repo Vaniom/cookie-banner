@@ -1,4 +1,4 @@
-# Cookie Banner [![Build Status](https://img.shields.io/travis/dobarkod/cookie-banner.svg?style=flat-square)](https://travis-ci.org/dobarkod/cookie-banner)
+#THIS IS A FORK OF  Cookie Banner [![Build Status](https://img.shields.io/travis/dobarkod/cookie-banner.svg?style=flat-square)](https://travis-ci.org/dobarkod/cookie-banner)
 
 Cookie Banner is a super-easy way to ensure you're complying with the EU
 cookie law. Just reference the `cookiebanner.min.js` script from your page
